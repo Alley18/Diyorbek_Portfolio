@@ -83,7 +83,7 @@ const Hero = () => (
 
     {/* Name + title */}
     <div style={{ overflow: "hidden", marginBottom: "1.5rem" }}>
-      {["Diyorbek", "Mirzaakbarov"].map((word, i) => (
+      {["Diyorbek"].map((word, i) => (
         <motion.div key={word} initial={{ y: "100%" }} animate={{ y: 0 }}
           transition={{ delay: 0.3 + i * 0.1, duration: 0.7, ease: [0.16, 1, 0.3, 1] }}>
           <h1 style={{
