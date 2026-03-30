@@ -158,11 +158,11 @@ const projects = [
     status: "demo",
   },
   {
-    name: "Project Four",
-    desc: "A short one-liner about what this app does and what problem it solves.",
+    name: "Project Four: Hotel Reservation front end website",
+    desc: "A small project I built to practice my skills.",
     tags: ["React Native", "JavaScript", "API"],
-    link: "https://github.com/Alley18",
-    linkLabel: "View on GitHub",
+    link: "https://hotel-reservation-lemon.vercel.app/",
+    linkLabel: "View Demo",
     status: "demo",
   },
 ];
