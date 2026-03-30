@@ -134,11 +134,11 @@ const Hero = () => (
 /* ── Projects ── */
 const projects = [
   {
-    name: "Project One",
-    desc: "A short one-liner about what this app does and what problem it solves.",
+    name: "Project One: Bozorim (Marketplace)",
+    desc: "My start up project to create online version of local stores and deliver products.",
     tags: ["Flutter", "Firebase", "Mobile"],
-    link: "https://github.com/Alley18",
-    linkLabel: "View on GitHub",
+    link: "https://bozorim-demonstration-od9w.vercel.app/",
+    linkLabel: "View Demo",
     status: "demo",
   },
   {
@@ -329,7 +329,7 @@ const About = () => (
         }}>
           <img
             src="/mnt/user-data/uploads/photo_2025-05-19_16-37-39.jpg"
-            alt="Diyorbek Mirzaakbarov"
+            alt="Diyorbek"
             style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center top" }}
           />
         </div>
