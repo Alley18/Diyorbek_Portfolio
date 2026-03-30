@@ -451,7 +451,7 @@ const Contact = () => {
           display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: "0.5rem",
         }}>
           <span style={{ fontFamily: "var(--mono)", fontSize: "0.65rem", color: "rgba(255,255,255,0.2)" }}>
-            Diyorbek Mirzaakbarov
+            Diyorbek
           </span>
           <span style={{ fontFamily: "var(--mono)", fontSize: "0.65rem", color: "rgba(255,255,255,0.2)" }}>
             © {new Date().getFullYear()}
